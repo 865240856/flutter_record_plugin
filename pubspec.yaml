@@ -8,8 +8,8 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  path: ^1.5.1
-  file: ^5.0.4
+  path: ^1.8.0
+  file: ^6.1.2
   flutter:
      sdk: flutter
 
@@ -17,6 +17,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
  # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
